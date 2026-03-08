@@ -44,8 +44,6 @@ The system allows users to:
 
 ## System Modules
 
-[![TMS](Images/TMS App Modules.png)](https://github.com/Ashishsn1210/Tool-Management-System/blob/d605f751a137543ed3d8497fcfaea8f00b1025db/Images/TMS%20App%20Modules.png)
-
 The system consists of the following modules:
 - Tools – Master database of all tools
 - Indents – Tool request system
