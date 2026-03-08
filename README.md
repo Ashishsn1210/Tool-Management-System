@@ -44,8 +44,8 @@ The system allows users to:
 
 ## System Modules
 
-![TMS App Modules]
-(Images/TMS App Modules.png)
+[![TMS App Modules]
+(Images/TMS App Modules.png)](https://github.com/Ashishsn1210/Tool-Management-System/blob/185c77cf092a98acd4a1144b33667d1186fb57de/Images/TMS%20App%20Modules.png)
 
 The system consists of the following modules:
 - Tools – Master database of all tools
