@@ -42,7 +42,7 @@ The system allows users to:
 - No-code application development
 
 
-## System Modules
+## App Modules
 
 ![App Modules](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS%20App%20Modules.png)
 
