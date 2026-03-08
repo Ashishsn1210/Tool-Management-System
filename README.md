@@ -44,7 +44,8 @@ The system allows users to:
 
 ## System Modules
 
-![TMS App Modules](Images/TMS App Modules.png)
+![TMS App Modules]
+(Images/TMS App Modules.png)
 
 The system consists of the following modules:
 - Tools – Master database of all tools
