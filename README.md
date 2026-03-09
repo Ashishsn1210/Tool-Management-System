@@ -87,6 +87,7 @@ The application follows a structured workflow to manage tool operations efficien
 
 Typical workflow process:
 ----Attach Image here-----
+
 Tool Registration  
 ↓  
 Tool added to inventory database  
