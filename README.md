@@ -62,8 +62,6 @@ The system consists of the following modules:
 
 ## Data Entry Form
 
-## Data Entry Form
-
 The application uses structured data entry forms to capture and manage information within the system. These forms provide a user-friendly interface that allows users to input, update, and maintain records in a consistent and organized manner. Each form includes predefined fields designed to ensure accurate data entry while reducing the chances of missing or incorrect information. Validation rules and structured inputs help maintain data integrity across the system. The forms also simplify complex processes by guiding users through the required inputs step by step. This makes the application accessible even for users with minimal technical experience. By standardizing how information is entered into the system, the application ensures reliable data management, improves traceability of records, and supports efficient workflow execution across different operational activities.
 These forms act as the primary interface through which users interact with the system, making data management simple, structured, and efficient.
 
