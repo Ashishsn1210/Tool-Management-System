@@ -35,11 +35,13 @@ The system allows users to:
 - Automate approval workflows through email
 
 
-## Tech Stack
-- Google AppSheet
-- Google Sheets (backend database)
-- Email Automation Workflows
-- No-code application development
+## System Architecture
+The application is built using a no-code architecture powered by Google AppSheet with Google Sheets acting as the backend database.
+
+The system architecture consists of:
+- AppSheet – Frontend application interface and workflow engine
+- Google Sheets – Backend data storage and structured tables  
+- Automation Workflows – Trigger-based actions such as notifications and approval processes 
 
 
 ## Key Features
