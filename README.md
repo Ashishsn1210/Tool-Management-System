@@ -42,6 +42,17 @@ The system allows users to:
 - No-code application development
 
 
+## Key Features
+- Centralized tool database for maintaining tool information
+- Inventory tracking to monitor tool availability
+- Tool issue and return tracking for operational control
+- Structured data entry forms for consistent data management
+- Modular system design for easy navigation and scalability  
+- Automated workflows for operational processes  
+- Vendor and procurement tracking  
+- Lifecycle monitoring of tools including maintenance activities
+
+
 ## App Modules
 
 The application is structured into multiple modules to organize different operational functions within the system. Each module represents a specific functional area that helps manage and track various aspects of the tool lifecycle and inventory operations. Each module acts as a dedicated workspace where users can view records, update information, and manage related operations. This approach improves usability, maintains data consistency, and allows the system to scale easily as new features or operational processes are introduced.
