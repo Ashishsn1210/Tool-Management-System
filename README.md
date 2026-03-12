@@ -107,5 +107,5 @@ By digitizing tool management processes, the system improves efficiency, account
 
 
 ## Application Demo
-The following video demonstrates a sample workflow of registering a tool using the Tool Management System.
+The following video demonstrates a sample workflow of making an entry using the application.
 ![App Demo](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS_Demo.gif)
