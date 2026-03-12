@@ -4,7 +4,7 @@
 ## Overview
 This project is a Tool Management Application built using Google AppSheet to help manufacturing companies track and manage their tools efficiently.
 
-Many factories still track tools using spreadsheets or manual registers which leads to:
+Many companies track tools using spreadsheets or manual registers which leads to:
 - Loss of tools
 - Poor inventory visibility
 - Untracked tool usage
