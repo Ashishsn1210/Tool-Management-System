@@ -106,5 +106,6 @@ By digitizing tool management processes, the system improves efficiency, account
 - QR code scanning for tool tracking
 
 
-
-![TMS Video](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS_Overview.mp4)
+## Application Demo
+The following video demonstrates a sample workflow of registering a tool using the Tool Management System.
+![TMS Video](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS_Overview.gif)
