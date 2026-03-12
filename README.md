@@ -87,8 +87,7 @@ These forms act as the primary interface through which users interact with the s
 The application follows a structured workflow to manage tool operations efficiently.
 
 Typical workflow process:
-![App Modules](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS%20App%20Modules.png)
-
+![App Modules](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/SystemWorkflow.png)
 
 ## Business Impact
 This system helped our organization:
