@@ -87,21 +87,7 @@ These forms act as the primary interface through which users interact with the s
 The application follows a structured workflow to manage tool operations efficiently.
 
 Typical workflow process:
-----Attach Image here-----
-
-Tool Registration  
-↓  
-Tool added to inventory database  
-↓  
-User submits a request for a tool  
-↓  
-Approval process triggered  
-↓  
-Tool issued to user  
-↓  
-Tool returned after usage  
-↓  
-Lifecycle activity recorded in system
+![App Modules](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS%20App%20Modules.png)
 
 
 ## Business Impact
