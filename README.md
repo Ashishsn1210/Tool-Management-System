@@ -41,7 +41,7 @@ The application is built using a no-code architecture powered by Google AppSheet
 The system architecture consists of:
 - AppSheet – Frontend application interface and workflow engine
 - Google Sheets – Backend data storage and structured tables  
-- Automation Workflows – Trigger-based actions such as notifications and approval processes 
+- Automation Workflows – Trigger-based actions such as notifications and approval processes, Serial Number and Unique ID generation.
 
 
 ## Key Features
