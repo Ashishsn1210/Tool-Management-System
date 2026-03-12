@@ -53,6 +53,7 @@ The system architecture consists of:
 - Automated workflows for operational processes  
 - Vendor and procurement tracking  
 - Lifecycle monitoring of tools including maintenance activities
+- Access Control to modules based on user roles
 
 
 ## App Modules
