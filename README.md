@@ -87,7 +87,7 @@ These forms act as the primary interface through which users interact with the s
 The application follows a structured workflow to manage tool operations efficiently.
 
 Typical workflow process:
-![App Modules](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/SystemWorkflow.png)
+![System Workflow](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/SystemWorkflow.png)
 
 ## Business Impact
 This system helped our organization:
@@ -104,3 +104,7 @@ By digitizing tool management processes, the system improves efficiency, account
 - Dashboard for tool usage analytics
 - Integration with ERP systems
 - QR code scanning for tool tracking
+
+
+
+![TMS Video](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS_Overview.mp4)
