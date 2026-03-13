@@ -35,6 +35,10 @@ The system allows users to:
 - Automate approval workflows through email
 
 
+## Application Demo
+The following video demonstrates a sample workflow of making an entry using the application.
+![App Demo](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS_Demo.gif)
+
 ## System Architecture
 The application is built using a no-code architecture powered by Google AppSheet with Google Sheets acting as the backend database.
 
@@ -104,8 +108,3 @@ By digitizing tool management processes, the system improves efficiency, account
 - Dashboard for tool usage analytics
 - Integration with ERP systems
 - QR code scanning for tool tracking
-
-
-## Application Demo
-The following video demonstrates a sample workflow of making an entry using the application.
-![App Demo](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/TMS_Demo.gif)
