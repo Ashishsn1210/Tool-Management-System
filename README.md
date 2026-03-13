@@ -51,12 +51,11 @@ The system architecture consists of:
 ## Key Features
 - Centralized tool database for maintaining tool information
 - Inventory tracking to monitor tool availability
+- Automated email generation for approvals 
 - Tool issue and return tracking for operational control
-- Structured data entry forms for consistent data management
-- Modular system design for easy navigation and scalability  
-- Automated workflows for operational processes  
-- Vendor and procurement tracking  
+- Structured data entry forms for consistent data management    
 - Lifecycle monitoring of tools including maintenance activities
+- Modular system design for easy navigation and scalability
 - Access Control to modules based on user roles
 
 
