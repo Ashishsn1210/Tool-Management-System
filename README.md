@@ -93,7 +93,7 @@ Typical workflow process:
 ![System Workflow](https://github.com/Ashishsn1210/Tool-Management-System/blob/main/Images/SystemWorkflow.png)
 
 ## Business Impact
-This system helped our organization:
+This system helped the organization:
 - Reduce manual tracking of tools
 - Improve inventory visibility
 - Prevent loss or misplacement of tools
